@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raids>
+	<!-- Special -->	
+	<raid name="Demodras" file="bosses/Demodras.xml" interval2="1440" margin="120" />
+	<raid name="Demodrass" file="bosses/Demodrass.xml" interval2="1440" margin="140" />
+	<raid name="Demodrasss" file="bosses/Demodrasss.xml" interval2="1440" margin="135" />
+	<raid name="Demodrassss" file="bosses/Demodrassss.xml" interval2="1440" margin="100" />
+	
+	
+	<raid name="Mad Mage" file="Special/Mad Mage.xml" interval2="360" margin="30"/> <!-- FEITO -->
+	
+	<raid name="Orc SamBPs" file="Special/OrcSamBPs.xml" interval2="300" margin="50" />
+	<raid name="Orc SamBP" file="Special/OrcSamBP.xml" interval2="300" margin="110" />	
+        <raid name="Draptor" file="Special/Draptor.xml" interval2="270" margin="10"/>
+	<raid name="Midnight Panther" file="Special/Midnight Panther.xml" interval2="280" margin="20"/>
+	<raid name="Undead Cavebear" file="Special/Undead Cavebear.xml" interval2="230" margin="20"/>
+	<raid name="Titanica" file="Special/Titanica.xml" interval2="240" margin="20"/>		
+		
+	<!-- Bosses -->
+	<raid name="The Pale Count" file="bosses/The Pale Count.xml" interval2="490" margin="60" /> 
+	<raid name="Fernfang" file="bosses/fernfang.xml" interval2="1440" margin="80" /> 
+	<raid name="Weakened Shlorg" file="bosses/weakened shlorg.xml" interval2="430" margin="50" /> <!-- FEITO -->
+	<raid name="Dharalion" file="bosses/Dharalion.xml" interval2="500" margin="70" /> 
+	<raid name="The Welter" file="bosses/the welter.xml" interval2="440" margin="60"/> <!-- FEITO -->
+	<raid name="Furyosa" file="bosses/furyosa.xml" interval2="440" margin="60"/>	<!-- FEITO -->
+	<raid name="Zushuka" file="bosses/zushuka.xml" interval2="6000" margin="60"/> <!-- FEITO -->
+	<raid name="White Pale" file="bosses/white pale.xml" interval2="440" margin="60"/>	 <!-- FEITO -->
+	<raid name="White Paleee" file="bosses/white paleee.xml" interval2="440" margin="119"/>	 <!-- FEITO -->
+	<raid name="White Palee" file="bosses/white palee.xml" interval2="440" margin="100"/>	 <!-- FEITO -->
+	
+	<raid name="Hirintror" file="bosses/hirintror.xml" interval2="440" margin="60"/> <!-- FEITO -->
+    <raid name="Chayenne" file="bosses/chayenne.xml" interval2="1440" margin="170" />
+	<raid name="Feroxa" file="bosses/Feroxa.xml" interval2="430" margin="81" />	
+	<raid name="Professor" file="bosses/Professor Maxxen.xml" interval2="450" margin="72" />
+	<raid name="Gaz" file="bosses/gaz.xml" interval2="1440" margin="160" /> <!-- FEITO -->
+	<raid name="Tyrn" file="bosses/Tyrn.xml" interval2="1440" margin="50" /> <!-- FEITO -->
+	<raid name="Maw" file="bosses/maw.xml" interval2="410" margin="20" />
+	<raid name="Ocyakao" file="bosses/Ocyakao.xml" interval2="1440" margin="50" /> <!-- FEITO -->
+	<raid name="Arachir the Ancient One" file="bosses/Arachir the Ancient One.xml" interval2="1440" margin="80" />
+	<raid name="Ferumbras" file="bosses/Ferumbras.xml" interval2="1440" margin="120" /> <!-- FEITO -->
+	<raid name="Ghazbaran" file="bosses/Ghazbaran.xml" interval2="1440" margin="100" /> <!-- FEITO -->
+	<raid name="Horned Fox" file="bosses/horned.xml" interval2="1440" margin="180" />
+	<raid name="Morgaroth" file="bosses/Morgaroth.xml" interval2="1440" margin="90" /> <!-- FEITO -->
+	<raid name="Necropharus" file="bosses/Necropharus.xml" interval2="1440" margin="110" />
+	<raid name="Orshabaal" file="bosses/Orshabaal.xml" interval2="1440" margin="100" />
+	<raid name="Omrafir" file="bosses/Omrafir.xml" interval2="1440" margin="80" />
+	<raid name="The Old Widow" file="bosses/The Old Widow.xml" interval2="1440" margin="60" />
+	<raid name="Sir Valorcrest" file="bosses/Sir Valorcrest.xml" interval2="1440" margin="120" />
+	<raid name="Zevelon Duskbringer" file="bosses/Zevelon Duskbringer.xml" interval2="1440" margin="90" />
+	<raid name="Zulazza the Corruptor" file="bosses/Zulazza the Corruptor.xml" interval2="1440" margin="60" /> <!-- FEITO -->
+	<raid name="Diblis The Fair" file="bosses/Diblis The Fair.xml" interval2="1440" margin="180" />
+	<!-- Regular Raids -->
+	<raid name="citizen" file="normal/feverish citizen.xml" interval2="500" margin="40" />	
+	<raid name="RatsThais" file="normal/ratsthais.xml" interval2="500" margin="80" />
+	<raid name="OrcsThais" file="normal/OrcsThais.xml" interval2="500" margin="70" />
+	<raid name="Barbarian" file="normal/Barbarian.xml" interval2="500" margin="70" />
+	<raid name="Elves" file="normal/Elves.xml" interval2="500" margin="80" />
+	<raid name="Pirates" file="normal/Pirates.xml" interval2="500" margin="90" />
+	
+	<raid name="Rats" file="normal/abertura.xml" interval2="500" margin="70" />
+	<raid name="Dragons" file="normal/dragons.xml" interval2="500" margin="80" />
+	<raid name="Insetos" file="normal/Insetos.xml" interval2="500" margin="85" />
+	
+	<raid name="PiratesThais" file="normal/PiratesThais.xml" interval2="500" margin="60" />
+	<raid name="Quaras" file="normal/quaras.xml" interval2="500" margin="50" />
+	<raid name="Undead Army" file="normal/undead army.xml" interval2="500" margin="100" />
+	<raid name="Undead Darashia" file="normal/undead darashia.xml" interval2="500" margin="70" />
+	
+	<raid name="Yeti" file="normal/Yeti.xml" interval2="500" margin="70" />
+	
+	<!-- Ab'Dendriel -->
+	<raid name="Badger" file="Ab'Dendriel/Badger.xml" interval2="500" margin="60" />
+	<raid name="Dragon" file="Ab'Dendriel/Dragon.xml" interval2="500" margin="90" />
+	<raid name="WaspBear" file="Ab'Dendriel/WaspBear.xml" interval2="500" margin="40" />
+	<raid name="WarWolf" file="Ab'Dendriel/WarWolf.xml" interval2="500" margin="30" />	
+	<!-- Ankrahmun -->
+	<raid name="Bonebeast" file="Ankrahmun/Bonebeast.xml" interval2="500" margin="100" />
+	<raid name="Cobra" file="Ankrahmun/Cobra.xml" interval2="500" margin="80" />
+	<raid name="Gargoyle" file="Ankrahmun/Gargoyle.xml" interval2="500" margin="80" />
+	<raid name="Necromancer" file="Ankrahmun/Necromancer.xml" interval2="500" margin="70" />
+	<raid name="Nomad" file="Ankrahmun/Nomad.xml" interval2="500" margin="70" />
+	<raid name="Scarab" file="Ankrahmun/Scarab.xml" interval2="500" margin="60" />
+	<raid name="Skeleton" file="Ankrahmun/Skeleton.xml" interval2="500" margin="70" />
+	<raid name="Slime" file="Ankrahmun/Slime.xml" interval2="500" margin="60" />
+	<raid name="Terramite" file="Ankrahmun/Terramite.xml" interval2="500" margin="70" />	
+	<!-- Carlin -->
+	<raid name="LesserUndead" file="Carlin/LesserUndead.xml" interval2="500" margin="100" />
+	<raid name="OrcWoods" file="Carlin/OrcWoods.xml" interval2="500" margin="80" />
+	<!-- New Raids -->
+	<raid name="BarbaBitter" file="new/barba_bittermor.xml" interval2="500" margin="40" /> 
+	<raid name="BarbaSvar" file="new/barba_svar.xml" interval2="500" margin="80" />
+	<raid name="Beetles" file="new/beetles.xml" interval2="500" margin="70" />
+	<raid name="Cyclops" file="new/cyc.xml" interval2="500" margin="30" />
+	<!--<raid name="Gnarlhounds" file="new/gnarlhounds.xml" interval2="500" margin="20" />-->
+	<raid name="GoEdron" file="new/goblins_edron.xml" interval2="500" margin="90" />
+	<raid name="GoFemor" file="new/goblins_femor.xml" interval2="500" margin="70" />
+	<raid name="Hunters" file="new/hunters.xml" interval2="500" margin="65" />
+	<raid name="IceGolems" file="new/icegolems.xml" interval2="500" margin="70" />
+	<raid name="Kongras" file="new/kongras.xml" interval2="500" margin="60" />
+	<raid name="Liches" file="new/liches.xml" interval2="500" margin="80" />
+	<raid name="Lions" file="new/lions.xml" interval2="500" margin="70" />
+	<raid name="Lizards" file="new/lizards.xml" interval2="500" margin="95" />
+	<raid name="Minos" file="new/minotaurs.xml" interval2="500" margin="100" />
+	<raid name="MNW" file="new/mnw.xml" interval2="500" margin="100" />
+	<raid name="Orcs" file="new/orcs.xml" interval2="500" margin="100" />
+	<raid name="Orcss" file="new/orcs2.xml" interval2="500" margin="100" />
+	<raid name="Pirates" file="new/pirates.xml" interval2="500" margin="60" />
+	<raid name="Priestesses" file="new/priestesses.xml" interval2="500" margin="70" />
+	<raid name="Sspawn" file="new/sspawn.xml" interval2="500" margin="60" />
+	<raid name="Terror" file="new/tbird.xml" interval2="500" margin="100" />
+	<raid name="Tigers" file="new/tigers.xml" interval2="500" margin="100" />
+	<raid name="Tortoise" file="new/tortoises.xml" interval2="500" margin="80" />
+</raids>
